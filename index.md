@@ -1,34 +1,14 @@
 ## Portfolio
 
----
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
+### Projects
 
+[Sine Immitator](http://sinewave-fun.herokuapp.com/)
+The Sine Immitator records input audio and tries to play the audio back using only sine waves. 
 
----
-<!-- Remove above link if you don't want to attibute -->
+[Running To Kiev](/pdf/sample_presentation.pdf)
+Have you ever put your tracked runs on Strave into perspective? With Running to Kiev you can.
+
+[Travelling Record](http://travellingrecord.co/)
+Five ownerless records are travelling the world.  
