@@ -17,3 +17,8 @@ Five ownerless records are travelling the world being passed from dj to dj.
 ### Moff & Tarkin
 [Soundcloud](https://soundcloud.com/moffandtarkin)<br>
 [Spotify](https://open.spotify.com/artist/4gBAMaygCgO0o0zDJNORYX?si=XfZx4JFYRPaGYqR3IjH4-Q)<br>
+<style>
+  p.view {
+    display: none;
+  }
+</style>
