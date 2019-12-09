@@ -6,7 +6,7 @@ The Sine Immitator records input audio and tries to play the audio back using on
 ### [Running To Kiev](https://runningtokiev.herokuapp.com/)
 Have you ever put your tracked runs on Strave into perspective? With Running to Kiev you can.
 
-### [Travelling Record](https://travellingrecord.co/)
+### [Travelling Record](http://travellingrecord.co/)
 Five ownerless records are travelling the world being passed from dj to dj.  
 
 ## Music
