@@ -1,8 +1,5 @@
-## Portfolio
+## Online Side Project Shenanigans
 
-
-
-### Projects
 
 [Sine Immitator](http://sinewave-fun.herokuapp.com/)
 The Sine Immitator records input audio and tries to play the audio back using only sine waves. 
