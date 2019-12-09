@@ -8,4 +8,4 @@ The Sine Immitator records input audio and tries to play the audio back using on
 Have you ever put your tracked runs on Strave into perspective? With Running to Kiev you can.
 
 ### [Travelling Record](http://travellingrecord.co/)
-Five ownerless records are travelling the world.  
+Five ownerless records are travelling the world being passed from dj to dj.  
