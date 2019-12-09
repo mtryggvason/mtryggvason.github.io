@@ -1,12 +1,15 @@
 ## Online Shenanigans
 
 ### [Sine Immitator](http://sinewave-fun.herokuapp.com/)
+![](/images/sine.jpg?raw=true)
 The Sine Immitator records input audio and tries to play the audio back using only sine waves. 
 
 ### [Running To Kiev](/pdf/sample_presentation.pdf)
+![](/images/kiev.jpg?raw=true)
 Have you ever put your tracked runs on Strave into perspective? With Running to Kiev you can.
 
 ### [Travelling Record](http://travellingrecord.co/)
+![](/images/travelling.jpg?raw=true)
 Five ownerless records are travelling the world being passed from dj to dj.  
 
 ## Music
