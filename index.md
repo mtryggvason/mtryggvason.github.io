@@ -1,5 +1,8 @@
 ## Online Shenanigans
 
+### [Virtual Turntable](https://virtual-turntable.herokuapp.com/)
+Turn your phone into a turntable and rotate it to listen to one of Moff & Tarkins unreleased bangers
+
 ### [Sine Immitator](https://sinewave-fun.herokuapp.com/)
 The Sine Immitator records input audio and tries to play the audio back using only sine waves. 
 
