@@ -1,6 +1,6 @@
 ## Online Shenanigans
 
-### [Virtual Turntable](https://virtual-turntable.herokuapp.com/)
+### [Virtual Turntable](https://mtryggvason.github.io/VirtualTurntable/)
 Turn your phone into a turntable and rotate it to listen to one of Moff & Tarkins unreleased bangers
 
 ### [Sine Immitator](https://sinewave-fun.herokuapp.com/)
