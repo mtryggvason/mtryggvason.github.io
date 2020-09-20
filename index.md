@@ -1,4 +1,4 @@
-## Online Shenanigans
+# Online Shenanigans
 
 ### [Virtual Turntable](https://mtryggvason.github.io/VirtualTurntable/)
 Turn your phone into a turntable and rotate it to listen to one of Moff & Tarkins unreleased bangers
@@ -13,10 +13,12 @@ Have you ever put your tracked runs on Strave into perspective? With Running to 
 Five ownerless records are travelling the world being passed from dj to dj.  
 
 ## Music
-
-### Moff & Tarkin
+I produce music under the name Moff & Tarkin. You should check it out!
 [Soundcloud](https://soundcloud.com/moffandtarkin)<br>
 [Spotify](https://open.spotify.com/artist/4gBAMaygCgO0o0zDJNORYX?si=XfZx4JFYRPaGYqR3IjH4-Q)<br>
+
+## Writings
+[Experience prototypes make better broducts](https://kiska.com/exchange/experience-prototyping/)
 <style>
   p.view {
     display: none;
