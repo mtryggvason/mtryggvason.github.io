@@ -23,4 +23,7 @@ I produce music under the name Moff & Tarkin. You should check it out!
   p.view {
     display: none;
   }
+  iframe {
+    max-width: 100%;
+  }
 </style>
