@@ -1,14 +1,17 @@
 ## Online Shenanigans
 
+### [Clubster Analysis](https://lazilyevaluated.co/clubster-analysis/)
+Comparing the bookings at the worlds most popular nightclubs. Done in collaboration with [Karl Tryggvason](https://karltryggvason.com/)
+
 ### [Virtual Turntable](https://mtryggvason.github.io/VirtualTurntable/)
-<div><iframe width="400" height="250" src="https://www.youtube.com/embed/AaTuZOxBxwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div><iframe width="320" height="250" src="https://www.youtube.com/embed/AaTuZOxBxwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Turn your phone into a turntable and rotate it to listen to one of Moff & Tarkins unreleased bangers
 
 ### [Sine Immitator](https://sinewave-fun.herokuapp.com/)
 The Sine Immitator records input audio and tries to play the audio back using only sine waves. 
 
 ### [Running To Kiev](https://runningtokiev.herokuapp.com/)
-Have you ever put your tracked runs on Strave into perspective? With Running to Kiev you can.
+Have you ever put your tracked runs on Strava into perspective? With Running to Kiev you can.
 
 ### [Travelling Record](http://travellingrecord.co/)
 Five ownerless records are travelling the world being passed from dj to dj. You can read more about the project [here](https://blog.discogs.com/en/travelling-records-globetrotting-tunes-for-a-global-audience/).
