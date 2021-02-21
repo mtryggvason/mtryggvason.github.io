@@ -32,9 +32,9 @@
         transform: translateY(-2px);
         -moz-transform: none;
       }
-      .is-fixed {
-        position: fixed;
-        top: 0;
+      .is-scrollable {
+        max-height: calc(100vh - 127px);
+        overflow: scroll;
       }
       .navbar {
         background: white;
@@ -42,11 +42,14 @@
         left: 0;
         padding: 32px;
       }
+      .is-fixed {
+        position: fixed;
+      }
     </style>
     </head>
   <body>
       <header>
-        <div class="navbar is-fluid">
+        <div class="navbar">
           <div>
             <h1 style="margin:0" class="title is-3">{{ site.title | default: site.github.repository_name }}</h1>
             <h2 class="title is-4">Creative Technologist</h2>
@@ -62,8 +65,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         </section>
         <section class="column">
-          <h3 class="title is-2">Online Shenanigans</h3>
-          <div class="columns is-multiline">
+          <div class="columns is-multiline is-offset-one-third">
             {% for post in site.posts limit: 10 %}
             <div class="column is-half">
               <a target="_blank" href="{{post.href}}">
