@@ -1,7 +1,7 @@
 ---
-thumbnail: /images/kiev.png
+thumbnail: /images/kiev.jpeg
 title: Running To Kiev
-url: https://runningtokiev.herokuapp.com/
+href: https://runningtokiev.herokuapp.com/
 tags: [React, Google Maps, Strava API]
 ---
 
