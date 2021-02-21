@@ -1,7 +1,7 @@
 ---
-thumbnail: /images/prototyping.png
+thumbnail: /images/prototyping.jpeg
 title: Experience prototypes make better products.
-url: https://kiska.com/exchange/experience-prototyping/
+href: https://kiska.com/exchange/experience-prototyping/
 tags: [writing, prototyping]
 ---
 

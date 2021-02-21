@@ -1,5 +1,5 @@
 ---
-thumbnail: /images/travelling.png
+thumbnail: /images/travelling.jpeg
 title: Travelling Record
 href: http://travellingrecord.co/
 tags: [Javascript, Google Maps, Instragram API]
