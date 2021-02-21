@@ -37,8 +37,8 @@
   <body>
     <div class="container columns is-fluid">
       <header class="column is-one-third">
-        <h1 class="title is-1"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+        <h1 style="margin:0" class="title is-2">{{ site.title | default: site.github.repository_name }}</h1>
+        <h2 class="title is-3">Creative Technologist</h2>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
