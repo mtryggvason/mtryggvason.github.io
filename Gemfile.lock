@@ -42,6 +42,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
 
 PLATFORMS
+  arm64-darwin-21
   universal-darwin-19
   x86_64-linux
 
@@ -52,4 +53,4 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.2.11
+   2.4.10
