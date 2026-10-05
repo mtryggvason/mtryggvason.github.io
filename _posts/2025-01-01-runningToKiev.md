@@ -2,7 +2,7 @@
 thumbnail: /images/inthelongrun.png
 title: In the long run
 href: https://www.inthelongrun.app/
-tags: [React, Google Maps, Strava API]
+tags: [React, Postgres, Honi, Strava API]
 ---
 
-Have you ever put your tracked runs on Strava into perspective? With Running to Kiev you can. Try it out [here](https://www.inthelongrun.app/dashboard)
+Track your long term running goals through virtual runs around the world. Try it [here](https://www.inthelongrun.app)
